@@ -22,28 +22,5 @@ hacktoberfest repo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # hacktoberfest
 hacktoberfest repo
