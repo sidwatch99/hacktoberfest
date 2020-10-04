@@ -17,10 +17,5 @@ sid2
 hacktoberfest repo
 
 
-
-
-
-
-
 # hacktoberfest
 hacktoberfest repo
