@@ -6,12 +6,7 @@ sid2
 hacktoberfest repo
 sid2
 
-# hacktoberfest
-hacktoberfest repo
-sid2
-# hacktoberfest
-hacktoberfest repo
-sid2
+
 v
 v
 
