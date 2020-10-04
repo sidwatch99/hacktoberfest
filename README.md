@@ -16,9 +16,5 @@ sid2
 # hacktoberfest
 hacktoberfest repo
 sid2
-# hacktoberfest
-hacktoberfest repo
-sid2
-# hacktoberfest
-hacktoberfest repo
-sid2
+
+
